@@ -81,25 +81,10 @@
   <a href="mailto:charugundla.vishnu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Vishnu-Charugundla">
-    <img src="https://img.shields.io/github/followers/Vishnu-Charugundla?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers">
-  </a>
 </p>
 
 ---
 
-## **📊 GitHub Stats & Fun Facts**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Charugundla&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Charugundla&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Charugundla&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
 
 🚀 **Always learning, building, and innovating!**  
 💬 **Feel free to connect and collaborate!**
