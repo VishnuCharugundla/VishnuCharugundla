@@ -59,7 +59,7 @@
 
 ## **🌟 Work Experience**  
 
-### **🔹 Data Scientist Intern @ [![Sam's Club](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sam%27s_Club_logo.svg/120px-Sam%27s_Club_logo.svg.png)](https://www.samsclub.com/) Sam's Club (Walmart Inc.)**  
+### **🔹 Data Scientist Intern @ Sam's Club Walmart Inc.**  
 
 ### **🔹 Data Engineer @ Modak Analytics**  
 
