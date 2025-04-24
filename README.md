@@ -50,7 +50,7 @@
 🛠 Built an **energy forecasting model** (Random Forest, XGBoost) with **R² = 0.78**.  
 👉 Helped prevent blackouts by **forecasting demand surges**.
 
-[🔎 Explore More Projects](https://github.com/Vishnu-Charugundla?tab=repositories)  
+[🔎 Explore More Projects](https://github.com/VishnuCharugundla?tab=repositories)  
 
 ---
 
